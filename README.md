@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-домашние задания к курсу на stepik auto selenium + python
+домашние задания к курсу на stepik auto selenium + python 
